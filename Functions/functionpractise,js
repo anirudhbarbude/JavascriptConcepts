@@ -1,0 +1,6 @@
+function anirudh( )
+{
+    console.log(" Anirudh")
+}
+
+anirudh()
